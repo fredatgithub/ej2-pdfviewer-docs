@@ -83,7 +83,7 @@ Add the below `serviceUrl` in the `index.html` file
 
 When the download icon is selected on the toolbar, the Form Fields will be saved in the PDF document and this action will not affect the original document. Refer the below GIF for further reference.
 
-![Alt text](../../../pdfviewer/images/saveformfield.gif)
+![Alt text](../../pdfviewer/images/saveformfield.gif)
 
 You can invoke download action using following code snippet.
 
